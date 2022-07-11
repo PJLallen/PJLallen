@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to Allen's Homepage ⚡</h1>
 
 
-I'm Jialun Pei (Allen), PHD. in School of computer science and technology, Huazhong university of science and technology, China. 😄 
+😄 I'm Jialun Pei (Allen), PHD. in School of computer science and technology, Huazhong university of science and technology, China.
 
 
 <p> 
