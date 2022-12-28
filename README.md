@@ -2,11 +2,11 @@
 <h1 align="center">Welcome to Allen's Homepage ⚡</h1>
 
 
-😄 I'm Jialun Pei (Allen), PHD. in School of computer science and technology, Huazhong university of science and technology, China.
+😄 I'm Jialun Pei (Allen), Post-doc research fellow at the Department of Computer Science and Engineering, The Chinese University of Hong Kong. Before, I'm a Ph.D. in School of Computer Science and Technology, Huazhong University of Science and Technology, China.
 
 
 <p> 
-  <a href="mailto:peijl@hust.edu.cn"> <img src="https://img.shields.io/badge/MAIL%20-orange" height="20px" alt="Email"> </a>
+  <a href="mailto:jialunpei@cuhk.edu.hk"> <img src="https://img.shields.io/badge/MAIL%20-orange" height="20px" alt="Email"> </a>
   <a href="https://scholar.google.com/citations?hl=en&user=1lPivLsAAAAJ"><img src="https://img.shields.io/badge/More-Google Scholar-green?style=plastic"height="20px"> </a>
   <a href="https://github.com/GewelsJI?tab=followers"> <img src="https://img.shields.io/github/stars/PJLallen?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
 </p>
