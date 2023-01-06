@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to Allen's Homepage ⚡</h1>
 
 
-😄 I'm Jialun Pei (Allen), Post-doc research fellow at the Department of Computer Science and Engineering, The Chinese University of Hong Kong. Before, I'm a Ph.D. in School of Computer Science and Technology, Huazhong University of Science and Technology, China.
+😄 I'm Jialun Pei (Allen), Post-doc research fellow in MiuLAR Lab, supervised by Prof. Pheng Ann Heng at the Department of Computer Science and Engineering, The Chinese University of Hong Kong. Before, I'm a Ph.D. in School of Computer Science and Technology, Huazhong University of Science and Technology, China.
 
 
 <p> 
