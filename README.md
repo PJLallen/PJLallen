@@ -14,7 +14,7 @@
 
 <h2 align="left">🔭Research Interests</h2>
 
-My research interests include deep learning, instance segmentation, saliency/camouflaged detection and medical image analysis.
+My research interests include deep learning, instance-level segmentation, saliency/camouflaged detection and medical image analysis.
 
 
 <h2 align="left">🌱Languages and Tools</h2>
